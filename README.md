@@ -1,8 +1,22 @@
 AdventureWorks Report
+
+
+
 Played the role of Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company
+
+
+
+
 Step 1 
 Imported the raw data like Product Categories Subcategories and Customer and Sales Data in excel workbook format to Power BI.
+
+
+
+
 Step 2 
+
+
+
 Transformed the data in Power BI's power query and removed errors changed column names and removed duplicate values.![Screenshot 2023-12-06 202715](https://github.com/vishalharsh/Project1/assets/128250001/9162228d-fdac-4731-8d85-af9eeb6efe87)
 
 
